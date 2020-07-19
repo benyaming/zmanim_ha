@@ -1,0 +1,12 @@
+{
+  "domain": "zmanim",
+  "name": "Zmanim",
+  "documentation": "",
+  "codeouners": ["@benyaming"],
+  "requirements": [
+    "julian",
+    "zmanim",
+    "requests",
+    "timezonefinder"
+  ]
+}
